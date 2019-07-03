@@ -76,11 +76,11 @@ vultr 经常有注册优惠活动，查找最新可用优惠活动参考：[**vu
 
 **然后等待安装  可能需要几分钟**
 
-![](https://github.com/Mr96s/SSR-FanQiang/blob/master/picture/%E9%9D%A2%E6%9D%BF%E4%BF%A1%E6%81%AF.png)
+![](https://github.com/Mr96s/SSR-FanQiang/blob/master/picture/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BB%86%E8%8A%82.png)
 
 安装好后，**查看服务器细节**
 
-![](https://github.com/Mr96s/SSR-FanQiang/blob/master/picture/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BB%86%E8%8A%82.png)
+![](https://github.com/Mr96s/SSR-FanQiang/blob/master/picture/%E9%9D%A2%E6%9D%BF%E4%BF%A1%E6%81%AF.png)
 
 这里需要记住几个东西，可以创建个文本记下来。
 
